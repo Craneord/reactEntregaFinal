@@ -1,0 +1,26 @@
+.container {
+    width: 10%;
+    margin: auto;
+    
+}
+
+.detail {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.detailImage{
+    width: 500px;
+}
+.content{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body{
+    background-color: gold
+}

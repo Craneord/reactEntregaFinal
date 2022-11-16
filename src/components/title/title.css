@@ -1,0 +1,16 @@
+.title {
+    width: auto;
+    height: auto;
+    background-color: gold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 15px;
+    
+}
+
+.skin{
+    text-decoration: none;
+    color: black;
+    background-color: gold;
+}

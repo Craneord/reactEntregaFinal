@@ -1,0 +1,9 @@
+.NavBar{
+    background-color: #282c34;
+}
+.NavDecorations {
+    text-decoration: none;
+    padding: 5px;
+    color: gold;
+    font-size: 3vh;
+}

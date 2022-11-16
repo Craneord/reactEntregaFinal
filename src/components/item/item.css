@@ -1,0 +1,17 @@
+.skin {
+    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.skin img{
+    width: 50%;
+    object-fit: cover;
+}
+
+.skin title{
+    background-color:  gold;
+}
