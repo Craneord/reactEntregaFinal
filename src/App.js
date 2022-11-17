@@ -22,7 +22,6 @@ function App() {
         <nav className='NavBar'>
           <NavBar />
         </nav>
-        
     </div>
       <Routes>
         <Route path="/" element={<ItemListContainer />}/>
